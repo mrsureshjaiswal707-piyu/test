@@ -214,6 +214,7 @@ escrow-chain/
 ```
 CONTRACT_ADDRESS_HERE
 ```
+`Contract Address = "CDYAOPQPXAWXZBRQTQ3OFAOOYSIBHCY5SYMUMJR4PPFKMHW5YRNU55OO"`
 
 > Deploy the contract using `scripts/deploy.sh` and replace this placeholder.
 
