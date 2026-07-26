@@ -3,8 +3,7 @@ export const RPC_URL = "https://soroban-testnet.stellar.org";
 export const HORIZON_URL = "https://horizon-testnet.stellar.org";
 export const EXPLORER_URL = "https://stellar.expert/testnet/tx";
 
-// Replace with your deployed contract address
-export const CONTRACT_ADDRESS = process.env.NEXT_PUBLIC_CONTRACT_ADDRESS || "CONTRACT_ADDRESS_HERE";
+export const CONTRACT_ADDRESS = "CDYAOPQPXAWXZBRQTQ3OFAOOYSIBHCY5SYMUMJR4PPFKMHW5YRNU55OO";
 
 export const XLM_ASSET = "XLM";
 export const DECIMALS = 7;
